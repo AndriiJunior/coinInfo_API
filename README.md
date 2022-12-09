@@ -37,5 +37,7 @@ When you double click opens a list of prices in different currencies.
 
 
 
-![Запись экрана 2022-12-09 в 18 04 00](https://user-images.githubusercontent.com/32870399/206743466-3e90a78f-a96e-4dea-9f1f-968c91423a3b.gif)
 
+
+
+![Запись экрана 2022-12-09 в 18 04 00](https://user-images.githubusercontent.com/32870399/206743857-be0ce2ce-aa23-4ee0-8d44-da9cd0912d15.gif)
