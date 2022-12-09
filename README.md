@@ -1,16 +1,41 @@
 # coin_info_app
 
-A new Flutter project.
+It's app show information about cryptocurrency using API & json .
+App opens in the same way on both platform(IOS and Android)!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Main page.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="323" alt="Снимок экрана 2022-12-09 в 17 56 23" src="https://user-images.githubusercontent.com/32870399/206741919-d75071a0-a93c-4d2b-a195-c973f683d2ff.png">
+
+
+
+You can choose cryptocurrency.
+
+
+<img width="327" alt="Снимок экрана 2022-12-09 в 17 56 40" src="https://user-images.githubusercontent.com/32870399/206742129-31adcb1f-ff07-427b-b98b-dbcc93cef445.png">
+
+
+
+You can choose currency.
+
+
+
+<img width="332" alt="Снимок экрана 2022-12-09 в 17 56 57" src="https://user-images.githubusercontent.com/32870399/206742238-fdb96a11-0d7e-4e6b-a2b5-f99f227bb5b6.png">
+
+
+
+
+When you double click opens a list of prices in different currencies.
+
+
+
+<img width="339" alt="Снимок экрана 2022-12-09 в 17 57 11" src="https://user-images.githubusercontent.com/32870399/206742879-3e15146e-3028-4f3e-b2e0-ea472e7b6409.png">
+
+
+
+
+![Запись экрана 2022-12-09 в 18 04 00](https://user-images.githubusercontent.com/32870399/206743466-3e90a78f-a96e-4dea-9f1f-968c91423a3b.gif)
+
