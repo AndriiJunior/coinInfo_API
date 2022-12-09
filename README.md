@@ -28,7 +28,7 @@ You can choose currency.
 
 
 
-When you double click opens a list of prices in different currencies.
+When you double click on cryptocurrencies icon opens a list of prices in different currencies.
 
 
 
